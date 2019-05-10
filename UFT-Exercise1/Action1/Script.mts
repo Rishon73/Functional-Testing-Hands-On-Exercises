@@ -5,7 +5,7 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("password").Set
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("sign_in_btnundefined").Click @@ script infofile_;_ZIP::ssf4.xml_;_
 
 'Check point
-Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Shahar").Check CheckPoint("Shahar") @@ script infofile_;_ZIP::ssf5.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Shahar").Check CheckPoint("UserNameCheckPoint") @@ script infofile_;_ZIP::ssf5.xml_;_
 
 'Sign out
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("Shahar My account My orders").Click @@ script infofile_;_ZIP::ssf6.xml_;_
