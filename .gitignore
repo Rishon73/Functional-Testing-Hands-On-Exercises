@@ -1,0 +1,6 @@
+#UFT ignore section
+*.lck
+/Res*
+
+#stam
+#end UFT ignore section
