@@ -1,0 +1,45 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf20.html</FileName>
+				<URL>http://nimbusserver.aos.com:8000/#/</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://nimbusserver.aos.com:8000/#</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;).WebButton(&quot;send btnundefined&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>394</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>button</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>SEND</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebButton</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>BUTTON</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//BUTTON[@id=&quot;send_btnundefined&quot;]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
