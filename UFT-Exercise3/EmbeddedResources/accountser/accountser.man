@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>bc0331a4-3a75-4378-b744-709a2954aa1c</ID>
+  <Name>accountser</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2019-05-13T21:17:58.0633266-04:00</CreationDate>
+  <UpdateDate>2019-05-13T21:17:58.0633266-04:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>7b98e8df-3ee8-485e-aa89-7a4beb2019ed.xml</MetaDataSignatureFile>
+  <TestResourceId>7b98e8df-3ee8-485e-aa89-7a4beb2019ed</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>14.52.2173.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\Unified Functional Testing\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\Unified Functional Testing\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources\accountser</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.52.2173.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
