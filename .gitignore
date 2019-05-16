@@ -11,7 +11,7 @@ Runs/
 out/
 target/
 workspace.xml
-.idea/
+#.idea/
 /bin
 /releases
 /maven
