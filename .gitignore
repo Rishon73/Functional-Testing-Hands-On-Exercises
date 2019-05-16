@@ -2,5 +2,12 @@
 *.lck
 /Res*
 
-#stam
 #end UFT ignore section
+
+
+#LeanFT ignore section
+/.idea
+/out
+/RunResults
+
+#end LeanFT ignore section
