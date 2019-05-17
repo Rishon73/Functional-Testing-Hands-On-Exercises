@@ -1,5 +1,7 @@
 package com.mf;
 
+import com.hp.lft.report.Reporter;
+import com.hp.lft.report.Status;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -10,6 +12,7 @@ import com.hp.lft.verifications.*;
 import com.hp.lft.sdk.web.*;
 
 import unittesting.*;
+
 
 public class LeanFtTest extends UnitTestClassBase {
 
@@ -51,7 +54,7 @@ public class LeanFtTest extends UnitTestClassBase {
         model.AdvantageShoppingPage().MiceCategoryLink().click();
         model.AdvantageShoppingPage().SelectedMouseImage().click();
         model.AdvantageShoppingPage().BunnyRedWebElement().click();
-        model.AdvantageShoppingPage().QuantityEditField().setValue("3");
+        model.AdvantageShoppingPage().QuantityEditField().setValue("1");
         model.AdvantageShoppingPage().SaveToCartButton().click();
         model.AdvantageShoppingPage().MenuCartWebElement().click();
         browser.sync();
