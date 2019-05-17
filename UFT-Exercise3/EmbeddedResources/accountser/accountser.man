@@ -3,12 +3,12 @@
   <ID>bc0331a4-3a75-4378-b744-709a2954aa1c</ID>
   <Name>accountser</Name>
   <Type>WSDL</Type>
-  <Version>1</Version>
+  <Version>2</Version>
   <CreationDate>2019-05-13T21:17:58.0633266-04:00</CreationDate>
-  <UpdateDate>2019-05-13T21:17:58.0633266-04:00</UpdateDate>
+  <UpdateDate>2019-05-16T22:45:57.8465804-04:00</UpdateDate>
   <LoaderID>SignatureResourceHandler</LoaderID>
-  <MetaDataSignatureFile>7b98e8df-3ee8-485e-aa89-7a4beb2019ed.xml</MetaDataSignatureFile>
-  <TestResourceId>7b98e8df-3ee8-485e-aa89-7a4beb2019ed</TestResourceId>
+  <MetaDataSignatureFile>e496627b-ef99-4e09-b9a1-454632043021.xml</MetaDataSignatureFile>
+  <TestResourceId>e496627b-ef99-4e09-b9a1-454632043021</TestResourceId>
   <RepositoryType>TestRepository</RepositoryType>
   <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
   <SignatureAddinVersion>14.52.2173.0</SignatureAddinVersion>

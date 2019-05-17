@@ -1223,7 +1223,7 @@
   </wsdl:binding>
   <wsdl:service name="AccountServicePortService">
     <wsdl:port name="AccountServicePortSoap11" binding="tns:AccountServicePortSoap11">
-      <soap:address location="http://www.advantageonlineshopping.com:80/accountservice/" />
+      <soap:address location="http://nimbusserver:8001/accountservice/" />
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>
