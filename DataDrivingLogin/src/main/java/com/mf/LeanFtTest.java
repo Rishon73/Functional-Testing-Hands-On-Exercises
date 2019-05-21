@@ -18,7 +18,7 @@ import unittesting.*;
 public class LeanFtTest extends UnitTestClassBase {
 
     Browser browser;
-    private static String FILE_NAME = "C:\\Users\\demo\\Documents\\Unified Functional Testing\\Functional-Testing-Hands-On-Exercises\\resources\\SampleData.xlsx";
+    private static String FILE_NAME = "C:\\Users\\demo\\Functional-Testing-Hands-On-Exercises\\resources\\SampleData.xlsx";
     private ExcelParser excelParser;
 
     public LeanFtTest() {
