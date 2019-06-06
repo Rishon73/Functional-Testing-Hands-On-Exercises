@@ -18,7 +18,7 @@
         <string>RepositoryPath</string>
       </Key>
       <Value>
-        <string>C:\Users\demo\Documents\Unified Functional Testing\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources</string>
+        <string>C:\Users\demo\Documents\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources</string>
       </Value>
     </Item>
     <Item>
@@ -26,7 +26,7 @@
         <string>ResourceOrigin</string>
       </Key>
       <Value>
-        <string>C:\Users\demo\Documents\Unified Functional Testing\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources\accountser</string>
+        <string>C:\Users\demo\Documents\Functional-Testing-Hands-On-Exercises\UFT-Exercise3\EmbeddedResources\accountser</string>
       </Value>
     </Item>
     <Item>
