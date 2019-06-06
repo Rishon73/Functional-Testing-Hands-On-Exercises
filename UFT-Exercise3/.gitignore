@@ -1,6 +1,7 @@
 #UFT ignore section
 /obj
 /DatabaseBackup
+/Snapshots
 /bin/Script.dll
 /bin/Script.pdb
 /Result*
