@@ -1,6 +1,6 @@
 <RuntimeResourceManager>
 <RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity4.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{AppData!Sheet1.TablePath}</Key><Path>Local</Path><Value>C:\Users\demo\Documents\Unified Functional Testing\Functional-Testing-Hands-On-Exercises\resources\SampleData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{AppData!Sheet1.TablePath}</Key><Path>Local</Path><Value>AppData\SampleData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity9.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
 <RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity10.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
 </RuntimeResourceManager>
